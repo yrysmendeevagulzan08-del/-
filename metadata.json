@@ -1,0 +1,6 @@
+{
+  "name": "Отель Ала-Тоо Grand",
+  "description": "Ала-Тоо Grand Hotel - Ысык-Көл жээгиндеги премиум-класстагы люкс отель. Сапаттуу тейлөө жана ыңгайлуу бөлмөлөр.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
